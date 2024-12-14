@@ -41,10 +41,4 @@ Power BI Dashboard file (.pbix)
 Dashboard image (.pdf)
 
 
-🔍 How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/hr-analytics-dashboard.git
-Open the Power BI .pbix file in Power BI Desktop.
-Customize visuals or connect to your dataset as needed.
+
